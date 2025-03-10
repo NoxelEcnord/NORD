@@ -1,17 +1,17 @@
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://files.catbox.moe/lnrodb.gif'/></a><a><img src='https://files.catbox.moe/wqgry6.gif'/></a>
  
 
 
 </p>
 <p align="center"> 
   <a href="https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q">
-    <img alt=Support height="390" src="https://i.ibb.co/4jBhn13/Socialthumb.jpg"> 
+    <img alt=Support height="390" src="https://files.catbox.moe/t0ass1.jpeg"> 
     </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+TREX-MD+MADE+IN+KENYA+🇰🇪" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+NORD+MADE+IN+KENYA+🇰🇪" alt="Typing SVG" /></a>
 
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://files.catbox.moe/lnrodb.gif'/></a><a><img src='https://files.catbox.moe/wqgry6.gif'/></a>
 
 
 ***BOT FEATURES ♻️***
@@ -21,7 +21,7 @@
 | Work ➜ |  ✅ |   ✅  |    ✅  |     ✅   |   ✅  | ✅ |   ✅ |  ✅ |  ✅   | ✅  |    ✅   |  ✅  |
 
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://files.catbox.moe/t0ass1.jpeg'/></a><a><img src='https://files.catbox.moe/yjnz8f.gif'/></a>
 
 
 ## `DEPLOY NORMAL MENU HERE` 
@@ -58,7 +58,7 @@
 
 2. Now Deploy
     <br>
-<a href='https://dashboard.heroku.com/new?template=https://github.com/Berabruce/forever/' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/NoxelEcnord/forever/' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 
 #### DEPLOY TO RENDER
