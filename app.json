@@ -1,9 +1,9 @@
 {
   "name": "TREX-MD",
-  "description": "I am TREX-MD WhatsApp MultiDevice Bot built in NodeJs to enhance the experience.",
-  "logo": "https://i.ibb.co/4jBhn13/Socialthumb.jpg",
+  "description": "I am NORD WhatsApp MultiDevice Bot built in NodeJs to enhance the experience.",
+  "logo": "https://files.catbox.moe/yjnz8f.gif",
   "keywords": ["TREX-MD"],
-  "repository": "https://github.com/Berabruce/Trex-Md",
+  "repository": "https://github.com/NoxelEcnord/NORD",
   "stack": "container",
   "env": { 
       "SESSION_ID": {
@@ -34,17 +34,17 @@
     "STATUS_READ_MSG": {
       "description": "set your status reply message",
       "required": false,
-      "value": "*Status Seen By JAWAD-MD 👻🤍*"
+      "value": "👍"
     },
     "OWNER_NAME": {
       "description": "set your status reply message",
       "required": false,
-      "value": "Bruce Bera"
+      "value": "Ecnord"
     },
     "OWNER_NUMBER": {
       "description": "set your status reply message",
       "required": false,
-      "value": "254743982206"
+      "value": "254726498682"
     },
     "AUTO_READ": {
       "description": "make it true if you want bot to read message",
@@ -54,7 +54,7 @@
     "AUTO_TYPING": {
       "description": "make it true if you want bot to show typing",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "AUTO_RECORDING": {
       "description": "make it true if you want bot to show recording audio",
